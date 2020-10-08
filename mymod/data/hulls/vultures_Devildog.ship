@@ -1,0 +1,179 @@
+{
+  "bounds": [
+    10.5,
+    -1,
+    22.5,
+    -2.5,
+    22.5,
+    -6,
+    18.5,
+    -8.5,
+    10.5,
+    -9.5,
+    10.5,
+    -13,
+    3,
+    -14,
+    3,
+    -16.5,
+    -6.5,
+    -17.5,
+    -11.5,
+    -12.5,
+    -17.5,
+    -11.5,
+    -20,
+    0,
+    -20,
+    -0,
+    -17.5,
+    11.5,
+    -11.5,
+    12.5,
+    -6.5,
+    17.5,
+    3,
+    16.5,
+    3,
+    14,
+    10.5,
+    13,
+    10.5,
+    9.5,
+    18.5,
+    8.5,
+    22.5,
+    6,
+    22.5,
+    2.5,
+    10.5,
+    1
+  ],
+  "builtInWings": [],
+  "center": [
+    17,
+    19.5
+  ],
+  "collisionRadius": 47.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 4,
+      "length": 16.5,
+      "location": [
+        -17.5,
+        -5
+      ],
+      "style": "LOW_TECH",
+      "width": 4
+    },
+    {
+      "angle": -180,
+      "contrailSize": 4,
+      "length": 16.5,
+      "location": [
+        -17.5,
+        5
+      ],
+      "style": "LOW_TECH",
+      "width": 4
+    },
+    {
+      "angle": 180,
+      "contrailSize": 5,
+      "length": 27.5,
+      "location": [
+        -18,
+        -0
+      ],
+      "style": "LOW_TECH",
+      "width": 5
+    },
+    {
+      "angle": -180,
+      "contrailSize": 5,
+      "length": 27.5,
+      "location": [
+        -18,
+        0
+      ],
+      "style": "LOW_TECH",
+      "width": 5
+    }
+  ],
+  "height": 42,
+  "hullId": "vultures_Devildog",
+  "hullName": "Devildog multirole fighter",
+  "hullSize": "FIGHTER",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 39,
+  "spriteName": "graphics/ships/vultures_Devildog.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0001",
+      "locations": [
+        19.5,
+        4.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        19.5,
+        -4.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0003",
+      "locations": [
+        8,
+        11
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -0,
+      "arc": 0,
+      "id": "WS0004",
+      "locations": [
+        8,
+        -11
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "WS0005",
+      "locations": [
+        -9.5,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    }
+  ],
+  "width": 34
+}
